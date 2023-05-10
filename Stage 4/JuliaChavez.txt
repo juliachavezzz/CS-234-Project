@@ -1,0 +1,1 @@
+For this stage of the project I completed the whole program to have the graphical user interface work as it does. I also completed the GUI user guide. I put a lot of time into getting the user interface to work as a complete product and was luckily able to get that working. I believe I had a large role in completing this stage of this project.
