@@ -1,1 +1,2 @@
 
+For the final step of this project. Julia coded while sending updated code via email frequently for myself to add input. The URL diagram needed to be updated as well as the User guide and README file. Between conversing back and forth the code was completed and I finished the README file and uploaded into GitHub.
